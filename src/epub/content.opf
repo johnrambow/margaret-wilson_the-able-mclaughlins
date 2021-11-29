@@ -51,37 +51,41 @@
 		<meta property="term" refines="#subject-6">sh2008104657</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008111373</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Pulitzer Prize Winners</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">6</meta>
+		<dc:description id="description">Wully McLaughlin, the eldest son of Scottish immigrants farming on the Iowa prairie, struggles to help his soon-to-be wife recover from the violent act that could ruin both of their lives.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
-		</meta>
+			<p>The McLaughlins are prominent members of a settlement of Scottish immigrants who emigrated to the still-wild prairies of Iowa. As the story begins, their eldest son, Wully, returns to the family farm after serving in the Union Army during the Civil War. But much has changed in his absence: the girl who once returned his love, Chirstie, now appears cold, fearful, and traumatized, and won’t meet his eye. Wully seeks to discover what happened to her during his absence, and what he can do to set things right, without having Chirstie lose her standing in their tightknit and very religious Presbyterian community. The book’s author, <a href="https://standardebooks.org/ebooks/margaret-wilsondoyle">Margaret Wilson</a> (1882–1973), grew up on a farm in the small town of Traer, and her understanding of the land and its people infuses her first novel. She once described herself as "the most Middle Western of Middle Westerners,” although missionary work and her marriage would take her to India and the United Kingdom. <i>The Able McLaughlins</i>, her first novel, won the Harper’s Novel Prize on publication and then the Pulitzer Prize in 1924.</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/59845</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/ablemac00wils</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Able_McLaughlins</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/margaret-wilson_the-able-mclaughlins</meta>
 		<dc:creator id="author">Margaret Wilson</dc:creator>
 		<meta property="file-as" refines="#author">Wilson, Margaret</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Margaret_Wilson</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n2006052575</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Margaret_Wilson_(novelist)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n86800547</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">George Inness</dc:contributor>
+		<meta property="file-as" refines="#artist">Inness, George</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/George_Inness</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79007221</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Tim Lindell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Lindell, Tim</meta>
+		<dc:contributor id="transcriber-2">David E. Brown</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Brown, David E.</meta>
+		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/c/</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">John Rambow</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Rambow, John</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://johnrambow.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
